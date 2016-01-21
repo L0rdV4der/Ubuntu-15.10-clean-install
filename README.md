@@ -22,4 +22,4 @@ The Computer is I’m using an Intel(R) Core(TM)2 CPU 6600 @ 2.40GHz, 2.39 GHz, 
 *Step 7* During the install sequence it will ask you if you'd like to install ubuntu to your flash drive as a operating system that you can carry around with you on that drive this can be used on any computer with required support. It will also ask if you want to keep your operating system that you already have along with ubuntu to form a dual boot which you could switch between operating systems. Last but not least it will ask if you'd like to wipe the old operating system and completely install ubuntu on it's own. This choice is up to your preference
 *Step 8* It will ask you for your choice of language username and password to secure your machine.	
 *Step 9* In total the whole process should take about 30-40 mins.
-*Step 10* Enjoy your new operating sytem and have fun.
+*Step 10*Enjoy your new operating sytem and have fun.
