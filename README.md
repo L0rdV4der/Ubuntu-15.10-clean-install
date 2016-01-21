@@ -13,7 +13,7 @@ The Computer is I’m using an Intel(R) Core(TM)2 CPU 6600 @ 2.40GHz, 2.39 GHz, 
 
 **Step 2** You’ll want to use the 32bit version if your machine has less than 2GB of RAM. You'll use the 64bit if you have more then 2GB of RAM.
 
-**Step 3** The file size for Ubuntu will be 1.14 GB so it’s best to have a 2GB Flash drive minimum. The download will vary depending on your network speeds, min personally took about 20 minutes to finish. 
+**Step 3** The file size for Ubuntu will be 1.14 GB so it’s best to have a 2GB Flash drive minimum. The download will vary depending on your network speeds, mine personally took about 20 minutes to finish. 
 
 **Step 4** Download Universal-USB-Installer from the http://www.pendrivelinux.com/downloads/Universal-USB-Installer of the Ubuntu website.
 
