@@ -8,7 +8,7 @@ The system I'm installing on is running Windows XP Professional Version 2002 ser
 The Computer is I’m using an Intel(R) Core(TM)2 CPU 6600 @ 2.40GHz, 2.39 GHz, 1.99 GB of RAM.(Yours may be different)
 
 <h2>Where to get Ubuntu and USB Installer</h2>
-*Step 1* Download Ubuntu 15.10 from http://www.ubuntu.com/download/desktop.
+**Step 1** Download Ubuntu 15.10 from http://www.ubuntu.com/download/desktop.
 *Step 2* You’ll want to use the 32bit version if your machine has less than 2GB of RAM. You'll use the 64bit if you have more then 2GB of RAM.
 *Step 3* The file size for Ubuntu will be 1.14 GB so it’s best to have a 2GB Flash drive minimum. The download will vary depending on your network speeds, min personally took about 20 minutes to finish. 
 *Step 4* Download Universal-USB-Installer from the http://www.pendrivelinux.com/downloads/Universal-USB-Installer of the Ubuntu website.
