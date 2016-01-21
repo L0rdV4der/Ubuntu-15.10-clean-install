@@ -1,7 +1,8 @@
 # Ubuntu-15.10-clean-install
 <h2>System requirements</h2>
-*Step 1* Find out what your system is by clicking the Start button.
-*Step 2* Right click Computer and click properties and from here you'll be looking at your systems information. This will determine which version of Ubuntu you will need.
+**Step 1** Find out what your system is by clicking the Start button.
+
+*Step 2** Right click Computer and click properties and from here you'll be looking at your systems information. This will determine which version of Ubuntu you will need.
 
 <h2>My system info looks like this yours will be similar</h2>
 The system I'm installing on is running Windows XP Professional Version 2002 service Pack 3.
