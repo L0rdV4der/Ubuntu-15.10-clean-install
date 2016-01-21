@@ -6,5 +6,6 @@
 	Download Universal-USB-Installer from the http://www.pendrivelinux.com/downloads/Universal-USB-Installer of the Ubuntu website.</p> 
 <p>Run the USB installer that you download to your drive. When it prompts you tell it that you want to install Ubuntu. It will ask for the location of the file navigate to it on your flash drive.
 	Start the process of the installation once the program finishes which will be a very short process. Note once the bar fills up, you will need to restart the machine. Once the loading screen comes up you will need to boot into the system bios. For myself I had to press F12 you may have to press F10 as some machines are different in that aspect. 
-	From the in asks where you would like to boot from choose USB and baring no errors you have Ubuntu 15.10 up running and ready to go.</p>
+	From there it asks where you would like to boot from choose USB and baring no errors you have Ubuntu 15.10 up running and ready to go in no time.</p>
+<p>During the install sequence it will ask you if you'd like to install ubuntu to your flash drive as a operating system that you can carry around with you on that drive. It will also ask if you want to keep your operating system that you already have along with ubuntu to form a dual boot which you could switch between operating systems. Last but not least it will ask if you'd like to wipe the old operating system and completely install ubuntu on it's own. That choice is up to you enjoy and have fun!</p>	
 <p>In total the whole process should take about 30-40 mins.</p>
